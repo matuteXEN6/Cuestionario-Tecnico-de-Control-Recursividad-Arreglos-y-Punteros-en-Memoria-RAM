@@ -1,1 +1,0 @@
-# Cuestionario-Tecnico-de-Control-Recursividad-Arreglos-y-Punteros-en-Memoria-RAM
